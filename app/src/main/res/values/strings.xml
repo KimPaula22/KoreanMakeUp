@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KoreanMakeUp</string>
+    <string name="logo">Logo de la aplicación</string>
+    <string name="descripcion_imagen">Imagen del producto</string>
+</resources>
